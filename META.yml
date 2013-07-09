@@ -31,7 +31,7 @@ no_index:
 provides:
   Net::Signalet:
     file: lib/Net/Signalet.pm
-    version: 0.01
+    version: 0.02
   Net::Signalet::Client:
     file: lib/Net/Signalet/Client.pm
   Net::Signalet::Server:
@@ -46,6 +46,7 @@ resources:
   bugtracker: https://github.com/y-uuki/Net-Signalet/issues
   homepage: https://github.com/y-uuki/Net-Signalet
   repository: git://github.com/y-uuki/Net-Signalet.git
-version: 0.01
+version: 0.02
 x_contributors:
-  - 'y_uuki <yuki.tsubo@gmail.com>'
+  - 'Syohei YOSHIDA <syohex@gmail.com>'
+  - 'Yuuki Tsubouchi <yuki.tsubo@gmail.com>'
